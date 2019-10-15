@@ -1,0 +1,11 @@
+#### Just FAKE to Test ####
+
+User 3:
+Kreditkartennummer:	5336659999999992
+Vorwahl:	0711
+Rufnummer:	99950004002
+email:		digital_dv@t-online.de
+Personalausweisnummer:	L0G0PWX0O
+
+Kreditkartennummer;Vorwahl;Rufnummer;email;Personalausweisnummer
+5336659999999992;0711;99950004002;digital_dv@t-online.de;L0G0PWX0O
